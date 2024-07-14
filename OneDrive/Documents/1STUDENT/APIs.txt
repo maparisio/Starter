@@ -1,0 +1,10 @@
+omdb api key	1c51b06e
+
+NYT API key QiqCKvxjxNmj2QqVEvYFMlD1tJUDDQI0
+
+OpenWeather API 53fcf59f786a88f6911a5903aa403d97
+
+		08aa96d57a58e25b169accfad0d08921
+
+Geoapify API	eaacf2d1dabe437fa746b3c4b9007909
+
